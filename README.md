@@ -29,3 +29,8 @@ Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 Good luck!
+
+Project Steps:
+Download the data source. 
+The download should give you a UCI HAR DataSet folder.
+Place run_analysis.R in the same folder that UCI HAR DataSet is and then set it as the working directory. Run source and it will generate tiny_data.txt in your working directory with the desired text file.
